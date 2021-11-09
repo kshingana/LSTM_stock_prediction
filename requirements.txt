@@ -19,3 +19,4 @@ ipython
 requests_cache
 sphinx
 pydata_sphinx_theme
+yfinance
