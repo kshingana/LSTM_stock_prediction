@@ -7,7 +7,6 @@ streamlit
 sklearn
 pandas
 lxml
-requests=2.26.0
 black
 coverage
 codecov
