@@ -6,3 +6,17 @@ keras==2.3.1
 streamlit
 sklearn
 pandas
+lxml
+requests=2.19.0
+black
+coverage
+codecov
+coveralls
+flake8
+pytest
+pytest-cov
+wrapt
+ipython
+requests_cache
+sphinx
+pydata_sphinx_theme
